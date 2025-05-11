@@ -1,8 +1,9 @@
 # ⏳ Pomodoro Timer - Tkinter Based Productivity App
 
 Hi! This is a simple and functional **Pomodoro Timer** built using **Python** and **Tkinter**.
-
 It’s a great little tool to help manage your work and break sessions more efficiently using the Pomodoro technique (25 minutes work + short breaks + long breaks).
+
+![Screenshot](Screenshot.png)
 
 ---
 
